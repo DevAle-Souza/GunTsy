@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alexandre Souza ⌨️
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.linkedin.com/in/carlos-alexandre-silva-384826282/](https://www.linkedin.com/in/carlos-alexandre-silva-384826282/))
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alexandre-silva-384826282/)
 [![instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ale11br/)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=GunTsy&show_icons=true&theme=tokyonight)
