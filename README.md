@@ -17,4 +17,4 @@
   <img aling="center" alt= "HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-#### Atualmente estou cursando o 8º e ultimo período de Ciência da Computação e realizando projetos autônomos para renda e conhecimento.
+#### Graduado em Ciência da Computação e expandindo o conhecimento.
