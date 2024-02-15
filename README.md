@@ -6,6 +6,6 @@
 
 ## Técnologias que utilizo
 
-Desenvolvedor FullStack | HTML\CSS | JavaScript | C# | Python | Vue | Node.js | React | MySQL | NoSQL | Mongo BD | Git | GitHub
+HTML\CSS | JavaScript | C# | Python | Vue | Node.js | React | MySQL | NoSQL | Mongo BD | Git | GitHub
 
 
