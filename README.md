@@ -6,6 +6,6 @@
 
 ## Técnologias que utilizo
 
-HTML\CSS | JavaScript | Bootstrap | React | ReactNative | C# | Python | Vue | Node.js | PHP | MySQL | NoSQL | Mongo BD | Git | GitHub
+HTML\CSS | JavaScript | Bootstrap | React | ReactNative | C# | Python | Node.js | MySQL | NoSQL | Git | GitHub
 
 
